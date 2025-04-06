@@ -87,5 +87,3 @@ If you’d like to contribute, feel free to fork this repo, improve the app, and
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
----"# Text-Analyzer" 
