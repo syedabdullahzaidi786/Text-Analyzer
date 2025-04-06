@@ -5,7 +5,7 @@
 
 A sleek and powerful **Text Analyzer** web app built with [Streamlit](https://streamlit.io/), designed to help you **analyze, modify, and enhance text instantly** — all in a clean and responsive interface.
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Text+Analyzer+App+Preview)
+![Live Preview](https://saz-text-analyzer.streamlit.app/)
 
 ---
 
